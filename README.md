@@ -41,28 +41,7 @@ The primary objective is to explore correlations between public sentiment on soc
 
 ---
 
-## Project Structure
 
-```
-social-media-trends/
-│
-├── data/
-│   ├── TweetFinSent_Train.json
-│   └── TweetFinSent_Test.json
-│
-├── notebooks/
-│   └── SocialMediaTrend_Analysis.ipynb
-│
-├── figures/
-│   ├── sentiment_distribution.png
-│   ├── trend_analysis.png
-│   └── shap_summary.png
-│
-├── README.md
-└── requirements.txt
-```
-
----
 
 ## Methodology
 
@@ -145,4 +124,4 @@ This project is for educational purposes only. Dataset licensing is subject to t
 
 
 
-Do you want me to do that next?
+
